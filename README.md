@@ -58,10 +58,10 @@ This feature supports pagination.<br>
 ##Overview of the project Structure
 This application follows View-controller Model, where View is the presentation layer (Client) developed using JSP and Servlet is the controller which handles the request from the client and communicates with other class to access the Business Logic.<br>
 JSP - TwitterClient.jsp <br>
-Servlet  - CommonServlet.java
-Business Logic - Controlelr.java
-web.xml - Servlet configuration
-TwitterAPI - the data from the Restful twitter API is used to implement the project.
+Servlet  - CommonServlet.java<br>
+Business Logic - Controlelr.java<br>
+web.xml - Servlet configuration<br>
+TwitterAPI - the data from the Restful twitter API is used to implement the project.<br>
 
 ###Instructions to check the functionality:
 
