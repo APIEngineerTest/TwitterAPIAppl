@@ -21,7 +21,7 @@ This feature supports pagination.<br>
 
 ##Steps to run the app:
 1.	$git clone https://github.com/APIEngineerTest/TwitteAPIAppl<br>
-2.	$cd TwitterApp<br>
+2.	$cd TwitterAPIAppl<br>
 3.	Import the project using eclipse.<br>     
     Reference: http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm<br>
 4.  Add the following jars to your application using build path.<br>
