@@ -135,7 +135,7 @@ public class Controller {
         		
         			if(myObject.get("next_cursor")!=null && myObject.get("previous_cursor")!=null){
             			next_cursor = (String) myObject.get("next_cursor").toString();
-            			jsonArray = (JSONArray) myObject.get("users");
+            			jsonArray = (JSONArray) myObject.get("ids");
             			String obj ;
             			for(int i=0;i<jsonArray.length();i++){
             				obj = (String) jsonArray.get(i).toString();
